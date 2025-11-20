@@ -10,6 +10,8 @@ It allows users to connect to their Binance Testnet account, view balances, plac
 <p align="center">
 <img width="600" alt="Screenshot (944)" src="https://github.com/user-attachments/assets/7e88e9e4-d25a-4237-9304-6899e21a5eff" />
 </p>
+
+
 ## Display current USDT futures balance in tabular form
 
 <p align="center">
@@ -37,15 +39,16 @@ It allows users to connect to their Binance Testnet account, view balances, plac
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/a278bcac-8ba9-44bf-a4eb-79a5bf565370" />
 </p>
 
+
 # Libraries Used
 
-streamlit – for UI/dashboard
+- streamlit – for UI/dashboard
 
-python-binance – official Python SDK for Binance API
+- python-binance – official Python SDK for Binance API
 
-pandas – for displaying balances in table format
+- pandas – for displaying balances in table format
 
-logging – for maintaining logs of all actions
+- logging – for maintaining logs of all actions
 
 Install dependencies via pip:
 
@@ -53,14 +56,13 @@ Install dependencies via pip:
 
 # How to Run
 
-Clone the repository or copy the code locally.
+- Clone the repository or copy the code locally.
 
-Ensure you have Python 3.10+ installed.
+- Ensure you have Python 3.10+ installed.
 
-Open terminal in the project folder.
+- Open terminal in the project folder.
 
-Run the app:
-
+- Run the app with:
 `streamlit run main.py`
 
 
