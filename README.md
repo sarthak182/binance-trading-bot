@@ -66,20 +66,25 @@ Install dependencies via pip:
 `streamlit run main.py`
 
 
-The app opens in a browser window:
+# After running
+- The app will open in your browser.
 
-Enter your Binance Testnet API key and Secret key
+- Login: Enter your Binance Testnet API Key and Secret Key.
 
-Connect to view balances and access the dashboard
+- Dashboard: After connecting, you can:
 
-Place Market Orders or OCO Orders
+  - View your USDT balance on Binance Futures Testnet.
 
-Logout when done
+  - Place Market Orders.
 
-Notes
+  - Place OCO Orders (Take Profit + Stop Loss emulated).
 
-The bot uses Binance Futures Testnet only, no real money is involved.
+- Logout: Disconnect your session when done.
 
-OCO orders are emulated by placing a Take Profit and Stop Loss order simultaneously.
+# Notes
 
-Logs are stored in bot.log for all actions.
+- The bot uses Binance Futures Testnet only – no real funds are involved.
+
+- OCO orders are emulated by placing Take Profit and Stop Loss orders simultaneously.
+
+- All actions (login, orders, errors) are logged in bot.log for tracking and debugging.
