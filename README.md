@@ -3,21 +3,23 @@
 A simplified trading bot for Binance Futures Testnet built using Python and Streamlit.
 It allows users to connect to their Binance Testnet account, view balances, place market and OCO orders, and logs all actions.
 
-# Features
+## Features
 
-Connect/Disconnect Binance Testnet account using API key & Secret key
+# Connect/Disconnect Binance Testnet account using API key & Secret key
 <img width="1920" height="1080" alt="Screenshot (944)" src="https://github.com/user-attachments/assets/7e88e9e4-d25a-4237-9304-6899e21a5eff" />
 
-Display current USDT futures balance in tabular form
+# Display current USDT futures balance in tabular form
 <img width="1920" height="1080" alt="Screenshot (945)" src="https://github.com/user-attachments/assets/3caeec62-14aa-4c7a-ac60-01f48ec1c0a9" />
 
-Place Market Orders (BUY/SELL)
+# Place Market Orders (BUY/SELL)
 <img width="1920" height="1080" alt="Screenshot (946)" src="https://github.com/user-attachments/assets/b313e2ed-ba7f-45b3-a197-f9f968f6bdef" />
 
-Place OCO Orders (Take Profit + Stop Loss)
+# Place OCO Orders (Take Profit + Stop Loss)
 <img width="1920" height="1010" alt="Screenshot (943)" src="https://github.com/user-attachments/assets/8ed65b6a-2b45-46b2-83ce-f32f8213f96e" />
 
-Logs all actions including login, orders, OCO orders, and logout
+# Logs all actions including login, orders, OCO orders, and logout:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a278bcac-8ba9-44bf-a4eb-79a5bf565370" />
+
 
 # Libraries Used
 
