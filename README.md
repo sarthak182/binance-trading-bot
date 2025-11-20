@@ -15,13 +15,12 @@ Place OCO Orders (Take Profit + Stop Loss)
 
 Logs all actions including login, orders, OCO orders, and logout
 
-User-friendly Streamlit dashboard
 
 # Libraries Used
 
 streamlit – for UI/dashboard
 
-binance – official Python SDK for Binance API
+python-binance – official Python SDK for Binance API
 
 pandas – for displaying balances in table format
 
@@ -29,7 +28,7 @@ logging – for maintaining logs of all actions
 
 Install dependencies via pip:
 
-pip install streamlit binance pandas
+`pip install streamlit python-binance pandas`
 
 # How to Run
 
@@ -41,7 +40,7 @@ Open terminal in the project folder.
 
 Run the app:
 
-streamlit run main.py
+`streamlit run main.py`
 
 
 The app opens in a browser window:
