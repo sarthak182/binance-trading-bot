@@ -15,7 +15,10 @@ Place OCO Orders (Take Profit + Stop Loss)
 
 Logs all actions including login, orders, OCO orders, and logout
 
-
+<img width="1920" height="1080" alt="Screenshot (943)" src="https://github.com/user-attachments/assets/b313e2ed-ba7f-45b3-a197-f9f968f6bdef" />
+<img width="1920" height="1080" alt="Screenshot (944)" src="https://github.com/user-attachments/assets/b313e2ed-ba7f-45b3-a197-f9f968f6bdef" />
+<img width="1920" height="1080" alt="Screenshot (945)" src="https://github.com/user-attachments/assets/b313e2ed-ba7f-45b3-a197-f9f968f6bdef" />
+<img width="1920" height="1080" alt="Screenshot (946)" src="https://github.com/user-attachments/assets/b313e2ed-ba7f-45b3-a197-f9f968f6bdef" />
 # Libraries Used
 
 streamlit – for UI/dashboard
