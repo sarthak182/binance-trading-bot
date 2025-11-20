@@ -1,0 +1,122 @@
+2025-11-19 16:56:49,381 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 16:56:50,239 | INFO | Login successful
+2025-11-19 16:56:50,241 | INFO | Fetched balance: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.78087944', 'crossWalletBalance': '4999.78087944', 'crossUnPnl': '1.34699706', 'availableBalance': '4973.66665958', 'maxWithdrawAmount': '4973.66665958', 'marginAvailable': True, 'updateTime': 1763549765302}
+2025-11-19 16:56:51,375 | INFO | Fetching current balance after connection
+2025-11-19 16:56:58,581 | INFO | Fetching current balance after connection
+2025-11-19 16:56:58,798 | INFO | Fetching current balance after connection
+2025-11-19 16:56:59,158 | INFO | User clicked 'Place Order' → BTCUSDT, BUY, 0.002
+2025-11-19 16:56:59,161 | INFO | Order request → Symbol=BTCUSDT, Side=BUY, Qty=0.002
+2025-11-19 16:57:00,066 | INFO | Order successful → {'orderId': 10362300190, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1369c82bf2985ed38d97da', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1763551618985}
+2025-11-19 16:59:24,146 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 16:59:25,174 | INFO | Login successful
+2025-11-19 16:59:25,174 | INFO | Fetched balance: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.45542985', 'availableBalance': '4964.54662891', 'maxWithdrawAmount': '4964.54662891', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 16:59:26,171 | INFO | Fetching current balance after connection
+2025-11-19 17:00:34,658 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:00:35,311 | INFO | Login successful
+2025-11-19 17:00:35,311 | INFO | Fetched balance: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.04640000', 'availableBalance': '4964.09725056', 'maxWithdrawAmount': '4964.09725056', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:00:35,311 | INFO | Fetching current balance after connection
+2025-11-19 17:05:40,852 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:05:41,804 | INFO | Login successful
+2025-11-19 17:05:41,804 | INFO | Fetched balance: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.50959086', 'availableBalance': '4964.59808187', 'maxWithdrawAmount': '4964.59808187', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:05:41,804 | INFO | Fetching current balance after connection
+2025-11-19 17:06:12,513 | INFO | Fetching current balance after connection
+2025-11-19 17:11:33,472 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:11:34,463 | INFO | Login successful
+2025-11-19 17:11:34,463 | INFO | Fetched balance: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.42452884', 'availableBalance': '4964.50394411', 'maxWithdrawAmount': '4964.50394411', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:11:34,465 | INFO | Fetching current balance after connection
+2025-11-19 17:14:24,230 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:14:25,164 | INFO | Login successful
+2025-11-19 17:14:25,164 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.50320000', 'availableBalance': '4964.44161056', 'maxWithdrawAmount': '4964.44161056', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:14:25,229 | INFO | Fetching balance on dashboard
+2025-11-19 17:14:31,901 | INFO | Fetching balance on dashboard
+2025-11-19 17:14:32,135 | INFO | User logged out
+2025-11-19 17:17:30,329 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:17:31,290 | INFO | Login successful
+2025-11-19 17:17:31,290 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '0.94080000', 'availableBalance': '4964.05773056', 'maxWithdrawAmount': '4964.05773056', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:17:31,345 | INFO | Fetching balance on dashboard
+2025-11-19 17:17:39,049 | INFO | Fetching balance on dashboard
+2025-11-19 17:17:39,273 | INFO | Fetching balance on dashboard
+2025-11-19 17:20:43,498 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-19 17:20:44,756 | INFO | Login successful
+2025-11-19 17:20:44,756 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '4999.70765056', 'crossWalletBalance': '4999.70765056', 'crossUnPnl': '1.25440000', 'availableBalance': '4964.03245056', 'maxWithdrawAmount': '4964.03245056', 'marginAvailable': True, 'updateTime': 1763551618985}
+2025-11-19 17:20:44,809 | INFO | Fetching balance on dashboard
+2025-11-19 17:20:51,356 | INFO | Fetching balance on dashboard
+2025-11-19 17:20:52,932 | INFO | Fetching balance on dashboard
+2025-11-19 17:20:53,149 | INFO | Fetching balance on dashboard
+2025-11-19 17:20:53,476 | INFO | OCO request → BTCUSDT, entry=BUY, TP=1e-05, SL=1e-05
+2025-11-19 17:20:53,666 | ERROR | OCO error → APIError(code=-1102): Mandatory parameter 'stopprice' was not sent, was empty/null, or malformed.
+2025-11-20 10:28:34,037 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:28:34,602 | INFO | Login successful
+2025-11-20 10:28:34,603 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.97565056', 'crossWalletBalance': '5006.97565056', 'crossUnPnl': '0.00000000', 'availableBalance': '5006.97565056', 'maxWithdrawAmount': '5006.97565056', 'marginAvailable': True, 'updateTime': 1763565527215}
+2025-11-20 10:28:34,627 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:40,247 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:40,481 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:41,024 | INFO | Market order clicked: BTCUSDT, BUY, qty=0.001
+2025-11-20 10:28:41,216 | ERROR | Order error → APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-20 10:28:45,729 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:45,924 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:46,383 | INFO | Market order clicked: BTCUSDT, BUY, qty=0.002
+2025-11-20 10:28:46,878 | INFO | Market order placed → {'orderId': 10441417819, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ97fa1ea0ab858bcd37540c', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1763614726158}
+2025-11-20 10:28:55,796 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:57,458 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:57,679 | INFO | Fetching balance on dashboard
+2025-11-20 10:28:58,142 | INFO | OCO request → BTCUSDT, entry=BUY, TP=2e-05, SL=2e-05
+2025-11-20 10:28:58,590 | ERROR | OCO error → APIError(code=-1102): Mandatory parameter 'stopprice' was not sent, was empty/null, or malformed.
+2025-11-20 10:30:08,054 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:30:08,866 | INFO | Login successful
+2025-11-20 10:30:08,866 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.90138544', 'crossWalletBalance': '5006.90138544', 'crossUnPnl': '0.24624833', 'availableBalance': '4997.80653302', 'maxWithdrawAmount': '4997.80653302', 'marginAvailable': True, 'updateTime': 1763614726159}
+2025-11-20 10:30:08,907 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:19,682 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:22,924 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:23,156 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:23,332 | INFO | OCO request → BTCUSDT, entry=BUY, TP=2e-05, SL=2e-05
+2025-11-20 10:30:28,056 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:31,008 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:31,238 | INFO | Fetching balance on dashboard
+2025-11-20 10:30:31,708 | INFO | OCO request → BTCUSDT, entry=BUY, TP=2e-05, SL=2e-05
+2025-11-20 10:31:52,437 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:31:53,256 | INFO | Login successful
+2025-11-20 10:31:53,256 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.90138544', 'crossWalletBalance': '5006.90138544', 'crossUnPnl': '0.21021833', 'availableBalance': '4997.81553452', 'maxWithdrawAmount': '4997.81553452', 'marginAvailable': True, 'updateTime': 1763614726159}
+2025-11-20 10:31:53,317 | INFO | Fetching balance on dashboard
+2025-11-20 10:31:57,771 | INFO | Fetching balance on dashboard
+2025-11-20 10:32:01,124 | INFO | Fetching balance on dashboard
+2025-11-20 10:32:01,363 | INFO | Fetching balance on dashboard
+2025-11-20 10:32:01,857 | INFO | OCO request → BTCUSDT, entry=BUY, TP=2e-05, SL=2e-05
+2025-11-20 10:34:15,704 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:34:16,849 | INFO | Login successful
+2025-11-20 10:34:16,849 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.90138544', 'crossWalletBalance': '5006.90138544', 'crossUnPnl': '0.12697503', 'availableBalance': '4997.73887171', 'maxWithdrawAmount': '4997.73887171', 'marginAvailable': True, 'updateTime': 1763614726159}
+2025-11-20 10:34:16,896 | INFO | Fetching balance on dashboard
+2025-11-20 10:34:23,535 | INFO | Fetching balance on dashboard
+2025-11-20 10:34:25,000 | INFO | Fetching balance on dashboard
+2025-11-20 10:34:25,250 | INFO | Fetching balance on dashboard
+2025-11-20 10:34:25,730 | INFO | OCO request → BTCUSDT, entry=BUY, TP=2e-05, SL=2e-05
+2025-11-20 10:36:01,592 | INFO | Fetching balance on dashboard
+2025-11-20 10:36:09,554 | INFO | Fetching balance on dashboard
+2025-11-20 10:36:09,754 | INFO | Fetching balance on dashboard
+2025-11-20 10:36:10,319 | INFO | OCO request → BTCUSDT, entry=BUY, TP=101000.0, SL=99000.0
+2025-11-20 10:37:13,880 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:37:14,636 | INFO | Login successful
+2025-11-20 10:37:14,636 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.90138544', 'crossWalletBalance': '5006.90138544', 'crossUnPnl': '0.33720000', 'availableBalance': '4997.93858543', 'maxWithdrawAmount': '4997.93858543', 'marginAvailable': True, 'updateTime': 1763614726159}
+2025-11-20 10:37:14,676 | INFO | Fetching balance on dashboard
+2025-11-20 10:37:22,347 | INFO | Fetching balance on dashboard
+2025-11-20 10:37:26,318 | INFO | Fetching balance on dashboard
+2025-11-20 10:37:26,554 | INFO | Fetching balance on dashboard
+2025-11-20 10:37:26,741 | INFO | OCO request → BTCUSDT, entry=BUY, TP=101000.0, SL=99000.0
+2025-11-20 10:38:07,761 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:15,703 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:15,947 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:16,417 | INFO | OCO request → BTCUSDT, entry=BUY, TP=105000.0, SL=95000.0
+2025-11-20 10:38:41,124 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:45,604 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:45,834 | INFO | Fetching balance on dashboard
+2025-11-20 10:38:46,004 | INFO | OCO request → BTCUSDT, entry=BUY, TP=95000.0, SL=105000.0
+2025-11-20 10:40:10,363 | INFO | Fetching balance on dashboard
+2025-11-20 10:40:14,152 | INFO | Fetching balance on dashboard
+2025-11-20 10:40:14,379 | INFO | Fetching balance on dashboard
+2025-11-20 10:40:14,919 | INFO | OCO request → BTCUSDT, entry=BUY, TP=100000.0, SL=85000.0
+2025-11-20 10:44:38,326 | INFO | Login attempt with API key prefix: WA1v***
+2025-11-20 10:44:39,398 | INFO | Login successful
+2025-11-20 10:44:39,398 | INFO | Balance fetched: {'accountAlias': 'mYfWuXoCuXuXXq', 'asset': 'USDT', 'balance': '5006.90138544', 'crossWalletBalance': '5006.90138544', 'crossUnPnl': '0.05700000', 'availableBalance': '4997.56179544', 'maxWithdrawAmount': '4997.56179544', 'marginAvailable': True, 'updateTime': 1763614726159}
+2025-11-20 10:44:39,437 | INFO | Fetching balance on dashboard
+2025-11-20 10:44:44,096 | INFO | Fetching balance on dashboard
+2025-11-20 10:44:44,291 | INFO | User logged out
